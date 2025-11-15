@@ -69,15 +69,4 @@ A mobile learning application enhanced with AI-driven audio processing and compr
 - Designed audio analysis and comparison system to support active learning.  
 - Managed image, audio, and user data using Supabase storage.
 
----
-
-## 🌱 What I’m Currently Learning
-- Advanced Flutter state management  
-- AI integration through Python and cloud-hosted models  
-- Scalable backend development using Supabase & PostgreSQL  
-
----
-
-## 📫 Contact Me
-**Email:** ivermarldumalag681@gmail.com
 
